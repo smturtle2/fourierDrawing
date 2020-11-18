@@ -2,7 +2,7 @@ let pg;
 let img;
 function setup(){
   frameRate(60);
-  createCanvas(displayWidth, displayheight);
+  createCanvas(1600, 900);
   background(255, 255, 255);
   color(0, 0, 0);
   textSize(20);
