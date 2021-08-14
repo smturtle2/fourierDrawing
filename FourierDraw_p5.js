@@ -8,7 +8,7 @@ function setup(){
   textSize(20);
   grid();
   pg=createGraphics(width-300, height-300);
-  img=loadImage("mesi.png");
+  //img=loadImage("mesi.png");
 }
 
 class Nod{
