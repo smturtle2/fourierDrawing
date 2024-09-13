@@ -1,4 +1,3 @@
 # fourierDrawing
 
-test2
-3
+test
