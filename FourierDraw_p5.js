@@ -69,6 +69,9 @@ function draw(){
         nl=0;
       }
     }
+    else if(nl > 0) {
+      stage = 1
+    }
     pmX=mouseX;
     pmY=mouseY;
   }
